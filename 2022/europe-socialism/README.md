@@ -17,6 +17,8 @@ When I say socialism, there is definitely [an academic definition](https://en.wi
 
 I traveled recently to central Europe for work. It was all too brief and I do want to go for a longer time. Experiencing the city at night, I saw that these cities were designed well and it was easy to get around.
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Sitting on a lively Parisian street, enjoying a beer at a street cafe, just generally immensely enjoying the ambiance, regretting not having this in the US, and getting mad that I have to go to another country and learn another language to have this. We could build this!</p>&mdash; William B. Fuckley (@opinonhaver) <a href="https://twitter.com/opinonhaver/status/1564733493191487488?ref_src=twsrc%5Etfw">August 30, 2022</a></blockquote>
+
 I'm certainly not alone. Many people romanticize European cities for good reason. But there's nothing truly special about Europe. We could have those same things in America, but we don't because of our choices.
 
 ## Public Transit
@@ -94,6 +96,8 @@ In the socialist mindset, one person winning is another losing. There is only a 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Last year a record 51 new bills were introduced allowing for Americans to sell home-made food for profit.<br><br>The result: new businesses sprouting across the country, including this cool one in Tennessee. <a href="https://t.co/QzXRNX3wZz">https://t.co/QzXRNX3wZz</a> <a href="https://t.co/EkiNnxvabU">pic.twitter.com/EkiNnxvabU</a></p>&mdash; Michael Hendrix (@michael_hendrix) <a href="https://twitter.com/michael_hendrix/status/1564389860386938880?ref_src=twsrc%5Etfw">August 29, 2022</a></blockquote>
 
 Yes, the coffeshop sells coffee and they profit from that. Good! It means the coffeeshop is objectively providing net value to the community, in their space and in the people they employ, and that they'll be around for years to come.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Going to Europe makes US preservation feel even stupider. Entire restaurant and stores live inside of Roman ruins. <br><br>But god forbid we modify a house to be functional for modern usage because GW took a shit there.</p>&mdash; Nia ✨⚡️🌙 (@_johnsonator) <a href="https://twitter.com/_johnsonator/status/1563847332919214080?ref_src=twsrc%5Etfw">August 28, 2022</a></blockquote>
 
 Governments have adopted a number of regulations to restrict commerce and progress. Another such regulation is around historical preseveration. "We can't change this building because of its historical value!" they cry even as they talk about [a parking lot](https://fredschultzblog.net/2019/08/30/preservation-versus-a-parking-lot/).
 
