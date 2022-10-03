@@ -5,4 +5,11 @@ https://techcrunch.com/2022/08/24/amazon-and-directv-partnership-brings-thursday
 https://www.theverge.com/2022/8/18/23311492/big-ten-sports-streaming-deal-peacock-paramount-confusing
 https://techcrunch.com/2022/08/18/streaming-viewership-surpassed-cable-tv-for-the-first-time-says-nielsen/
 https://techcrunch.com/2022/09/12/football-fans-unable-to-watch-directvs-nfl-sunday-ticket-due-to-the-website-and-app-crashing/
+https://www.theverge.com/2022/9/16/23356031/amazon-thursday-night-football-nfl-streaming
+https://www.theverge.com/2022/9/18/23359677/nfl-sunday-ticket-is-down-outage-directv-streaming
+https://techcrunch.com/2022/09/22/amazon-prime-video-thursday-night-football-15-million-viewers/
+https://www.theverge.com/2022/9/23/23369233/apple-tv-mlb-yankees-red-sox-stream-ny-ag-letitia-james-cable-yes-network
+https://www.theverge.com/2022/9/24/23369306/yankees-aaron-judge-apple-tv-plus-cable-google-home-radio
+https://www.theverge.com/2022/9/25/23371309/directv-nfl-sunday-ticket-issues-again-football
+https://www.theverge.com/2022/9/28/23377732/amazon-prime-video-yankees-cable-baseball-yes-network
 -->
