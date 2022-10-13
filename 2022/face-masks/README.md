@@ -70,3 +70,5 @@ A lot of technology can be employed to not just keep us safe, but that can integ
 I'm not going to criticize anyone who is wearing a mask. They are good at protecting an individual. However, expecting everyone to wear
 a mask forever is not realistic. It'd be great if they did. Public policy cannot depend on hopes and wishes. It needs to acknowledge limitations
 and be as successful as possible despite them.
+
+We also need to continue pursuing [a pan-coronavirus vaccine](https://www.science.org/content/article/why-efforts-make-better-more-universal-coronavirus-vaccines-are-struggling) to deal with any variant that comes up in the future.
