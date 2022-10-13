@@ -10,16 +10,24 @@ Fans did not like this and so GameFreak pivoted sharply to usher in plenty of ol
 
 While an expanded dex usually comes with the second games of a generation, GF really goes overboard in this regard. They quickly cast the new Unovan Pokémon to the side to rush after nostalgia.
 
-
+## Legendaries
 - Legendaries too soon/not at all
-- Triple/rotation battle gimmicks--no gyms nor deep, just N++
+
+## Graphics
 - Pixelated graphics everywhere
-- New places for no reason
-- Too many old Pokemon shows lack of will
-- Still grid system/2D. Is this all there is? Is this all there will be?
-- Too linear, so you can't explore at your own pace.
-- Generally pacing feels off. Too much grinding.
 - Hidden grottos/medals/lens flare details make the game busy but not fun
+
+## Gameplay
+- Too linear, so you can't explore at your own pace.
+- Grinding
+- Generally pacing feels off. Too much grinding.
+ 
+## Worldbuilding
+- New places for no reason
+
+## Is this all there is?
 - Kyurem is the 3rd Pokemon much like the previous two generations
 - final 100 stats mythical
+- Triple/rotation battle gimmicks--no gyms nor deep, just N++
+- Still grid system/2D. Is this all there is? Is this all there will be?
 - route 1/2 trainers with 5 Pokemon
