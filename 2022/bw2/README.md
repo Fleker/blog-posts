@@ -34,10 +34,14 @@ The worldbuilding in general feels strange. Drayden is now the 7th gym leader, s
 ## Worldbuilding
 This game introduces a number of new locations to the region, such as Aspertia City, but without a lot of justification. Why was this place inaccessible before? Why was Virbank City inaccessible before? I get the urge to add new places to make the region exciting to explore again, but as a sequel it's hard to say this place always existed but you can't visit it. Lentimas Town seems the strangest addition of all, adding nothing useful as far as I can tell to the story or the world.
 
+Other new places, like the Marine Tube, are neat additions but don't have any relation to the region's inspiration of New York City. I live there and I've never gone through a marine tube. If there is one, please let me know! The park in Castelia City also pales in comparison to Central Park. PokéStar Studios is far more Hollywood than Manhattan.
+
+It just seems like there were a bunch of disconnected ideas thrown in for the sake of adding more to the game rather than a coherent approach to expanding the world.
+
 ## Is this all there is?
 As I got to the endgame, travelling all the way back to Route 1 and 2, I battled [a handful of trainers](https://www.serebii.net/pokearth/unova/route2.shtml#trainers-bw2). By Gen 5 it was clear that there were certain themes in each generation. We'd have a regional rodent, bird, bug, etc. Youngster Jimmy has all five rodents. Lass Mali has all five birds. As I grinded through each fight, it gave me a bad feeling. It made me think that the future was just going to be formulaic forever.
 
-B2W2 are sequels, admittedly different from the "third version" we'd expected. Still, the game comes across as lacking boldness and inventiveness. Similar to previous generations, it focuses on the third legendary. We got another 100 base stat mythical, and it seems like this could just continue on until the franchise burns out.
+B2W2 are sequels, admittedly different from the "third version" we'd expected. Still, the game comes across as lacking boldness and inventiveness. Similar to previous generations, it focuses on the third legendary. We got another 100 base stat mythical, and it seems like this could just continue on indefinitely.
 
 The games are still 2D. They are still on a grid system. They add more things like hidden grottos and triple battles, but nothing feels fundamentally better to play.
 
