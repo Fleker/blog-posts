@@ -60,10 +60,23 @@ that even [high levels of CO2](https://www.thinkair.co.uk/portfolio-item/indoor-
 In general, we should be doing a lot more to ensure our indoor spaces have ample amounts of fresh air.
 
 In fact, going back to the MTA example, it's not clear just how much COVID was even spreading within the subways. They had already been designed to
-regularly [cycle the air](https://www.nytimes.com/interactive/2020/08/10/nyregion/nyc-subway-coronavirus.html) within each car and replace it with fresh
-air.
+regularly [cycle the air](https://www.nytimes.com/interactive/2020/08/10/nyregion/nyc-subway-coronavirus.html) within each car and replace it with fresh air. Since the mandate was lifted [cases in New York haven't shifted dramatically](https://projects.thecity.nyc/2020_03_covid-19-tracker/?_ga=2.161623355.684988644.1648478426-1211936103.1645032061), so it doesn't appear to have a sizable effect.
 
-A lot of technology can be employed to not just keep us safe, but that can integrate seamlessly into our lives without constant demands or mandates.
+Do masks work? Yes! But probably less than we'd like. A CDC report suggests that using the highest-end mask [reduces your chances of getting COVID by about 83%](https://www.cdc.gov/mmwr/volumes/71/wr/mm7106e1.htm), roughly a 6x reduction. That's not nothing.
+
+However, a mask-only policy is simply not enough. People need to get vaccinated and we see that it's much more reliable because you don't need to remember to be vaccinated in every personal interaction. In fact, some data suggests that there's an 8x reduction in getting COVID in vaccinated people.
+
+https://twitter.com/HandNF/status/1544777678561083394
+
+The data doesn't break down into various boosters, but it appears that a vaccinated person without a mask is safer than an unvaccinated person with a mask. Both can be better still, but at what point does the base risk become so small that it is unreasonable to worry?
+
+In addition to reducing case rates, you're going to be greatly protected from even more serious cases of COVID in the event you do get it.
+
+https://twitter.com/EricTopol/status/1527701537144786944
+
+https://twitter.com/AlecStapp/status/1541057464266678272
+
+Not everyone can be vaccinated, for a variety of medical reasons, but that's not a reason to mandate masks. A lot of technology can be employed to not just keep us safe, but that can integrate seamlessly into our lives without constant demands or mandates.
 
 ## Masking is good
 
