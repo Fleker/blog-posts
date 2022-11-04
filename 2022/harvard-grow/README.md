@@ -57,4 +57,13 @@ merit (people don't like it)
 To be clear, we should improve black outcomes!
 YIMBY - https://fleker.medium.com/reducing-college-costs-with-yimbyism-96fc9eceb47d
 Rowan Race - https://www.collegefactual.com/colleges/rowan-university/student-life/diversity/
+> Study after study confirms that diversity in the workforce contributes to the bottom line
+  https://www.scotusblog.com/2022/10/a-business-perspective-diversity-in-university-admissions-is-a-compelling-interest/
+> Regardless of the debate over the benefits of diversity, the experience of other colleges shows that racial discrimination is not needed for diversity. Since Oklahoma voters prohibited racial discrimination in public education in 2012, the University of Oklahoma has maintained a diverse student body.
+  https://www.scotusblog.com/2022/10/the-court-should-relegate-racial-discrimination-in-higher-education-to-the-dustbin-of-history/
+> Justice Amy Coney Barrett followed up on that point, noting that Grutter indicated that the use of racial classifications is so dangerous that it must have a logical endpoint. “When does it end?” Barrett asked. “When is your sunset? When will you know?” It has been nearly 50 years since Bakke, she noted, and that timespan suggests that achieving diversity has been difficult. “What if it continues to be difficult in another 25 years?”
+> Justice Brett Kavanaugh noted that, since the Grutter decision, nine states have barred the consideration of race in the admissions process for their public universities. “Those examples now show with greater confidence,” Kavanaugh suggested, that universities can use race-neutral programs that “produce significant numbers of minority students on campus.”
+> Gorsuch noted that universities consider other factors in their admissions process, such as whether an applicant is the child of an alumnus, whether the applicant’s family has donated money to the university, or whether the applicant is an athlete. Because those preferences, Gorsuch suggested, “tend to favor the children of wealthy white parents,” should a university have to eliminate those preferences if it could then assemble a diverse student body without considering race?
+> Prelogar focused on a similar point, which had resonated with the court in Grutter. Because the U.S. military had experienced “tremendous racial tension and strife” when its officer corps did not match the diversity of its enlisted members, it is now the “consistent judgment” of U.S. “senior military leaders” that it is critical to have a diverse officer corps – which in turn requires the consideration of race for admission to the service academies, Prelogar said.
+  https://www.scotusblog.com/2022/10/affirmative-action-appears-in-jeopardy-after-marathon-arguments/
 -->
