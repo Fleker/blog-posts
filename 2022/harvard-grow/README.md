@@ -51,7 +51,7 @@ https://twitter.com/SanchoPanzy/status/1586843744220889088
 
 I actually visited Harvard last month. I grabbed a slice at Otto and watched the local production of In The Heights.
 
-<!-- TODO MEME -->
+![](https://github.com/Fleker/blog-posts/blob/6fcbf45f82f8b0801fac53a9f92769e927210a0a/2022/harvard-grow/image%20(5).png)
 
 Harvard is fairly constricted in sprawling out. It's in walking distance to MIT and Boston. They don't have unused space.
 
@@ -66,6 +66,7 @@ When my alma mater expanded, and needed more land, it bought a ton of acres seve
 Harvard has access to an already-existing transit system thanks to the [MBTA](https://en.wikipedia.org/wiki/MBTA_subway). Students already get on the Red Line to go down to Boston or up to Alewife. Then there's a number of other lines they can transfer to as well.
 
 <!-- TODO Union Square -->
+![](https://github.com/Fleker/blog-posts/blob/cd74f935b9c58bd44e4da852ee0c06740ca7b688/2022/harvard-grow/PXL_20221016_153330648.MP.jpg)
 
 The MBTA is also expanding. While I was in Boston I took the Green D-Branch train to Union Square, [one of the new locations](https://www.mbta.com/projects/green-line-extension-glx).
 
