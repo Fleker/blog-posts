@@ -104,7 +104,7 @@ Affirmative action, and similar racial preferences, have been banned in some sta
 
 Just removing legacy status could be a way to improve diversity, and we should push Harvard to do that. If Harvard students are supposed to be successful, that's one of the least progressive policies that can be enacted. It literally helps the wealthy elites over the poor working class student.
 
-To be clear, we need to do more to help Black students get a great education and be successful. Harvard's current approach is likely to be deemed illegal and they'll have to find a new way to educate roughly 280 Black students.
+To be clear, we need to do more to help Black students get a great education and be successful. Harvard's current approach is likely to be deemed illegal and they'll have to find a new way to educate roughly 280 Black students. They will probably develop some overly complicated formula [based on income](https://www.economist.com/leaders/2022/11/02/american-society-is-so-focused-on-race-that-it-is-blind-to-class) that won't be effective in meeting their goals
 
 The simplest answer is to grow the entire student body. Not only will the same number learn, but many others will now have access to an elite school. Progressive education is about abundance, making sure everyone has access. Harvard has the means and the motive. Perhaps a ruling against them will provide the opportunity to become a school that has earned its success on merit.
 
