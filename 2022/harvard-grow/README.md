@@ -55,6 +55,8 @@ I actually visited Harvard last month. I grabbed a slice at Otto and watched the
 
 Harvard is fairly constricted in sprawling out. It's in walking distance to MIT and Boston. They don't have unused space.
 
+![](https://github.com/Fleker/blog-posts/blob/2911e5bab38b1e9626565bc1bafa453d9bf36ed0/2022/harvard-grow/PXL_20221017_001908121.NIGHT.jpg)
+
 But that's not quite true. Harvard's buildings are historic and could easily be modernized to take better advantage of the existing space. They could double the number of floors on each structure. The [Widener Library](https://en.wikipedia.org/wiki/Widener_Library) has ten floors underground with a maze of books. Harvard is already used to growing pains and has found solutions before.
 
 Growing pains are real. My alma mater [doubled the student population over ten years](https://fleker.medium.com/reducing-college-costs-with-yimbyism-96fc9eceb47d) and there's definitely been issues related to parking and housing and everything else. There are still issues. But we've had the disadvantage of being in southern New Jersey with a small endowment.
