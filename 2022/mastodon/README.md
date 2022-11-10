@@ -1,6 +1,6 @@
 # Why I think Mastodon will never replace Twitter
 
-A week ago I went to [Join Mastodon](https://joinmastodon.org/) and signed up for an account [@fleker@mastodon.world](https://mastodon.world/@fleker) and have been using it a bit.
+A week ago I went to [Join Mastodon](https://joinmastodon.org/) and signed up for an account, [@fleker@mastodon.world](https://mastodon.world/@fleker), and have been using it.
 
 While there has been a sudden uptick in growth, most of the people I've followed on Twitter have not migrated. My timeline is fairly empty. I used a tool called [Debirdify](https://pruvisto.org/debirdify/) to help find my followers, but the number is still just a few dozen.
 
@@ -8,7 +8,7 @@ I wil continue to use Mastodon when something interesting comes up, but I don't 
 
 ## Scaling servers
 
-I visited the Mastodon homepage and joined the first server that the recommended for me, that being mastodon.world. Since that time, the number of linked servers have grown a lot. That's probably a good thing because a few hours after I created my account the server become overwhelmed.
+I visited the Mastodon homepage and joined the first server that the recommended for me, that being [mastodon.world](mastodon.world). Since that time, the number of linked servers have grown a lot. That's probably a good thing because a few hours after I created my account the server become overwhelmed.
 
 https://mastodon.world/@fleker/109293923488149179
 
@@ -18,7 +18,9 @@ https://mastodon.world/@fleker/109293923488149179
 
 Some critics would say this isn't fair, since Mastodon isn't a single instance. It's designed to be federated. Rather than Twitter managing everything, anyone can spin up and host a Mastodon network. Even Trump is using the open-source platform as [the basis for his Truth Social](https://www.theverge.com/2021/10/29/22752850/mastodon-trump-truth-social-network-open-source-gab-legal-notice).
 
-But that's one exception. Many servers operate in a broader network called the Fediverse which includes sites like mastodon.social. It's easy for me to follow accounts and boost posts between servers. 
+But that's one exception. Many servers operate in a broader network called the Fediverse which includes sites like [mastodon.social](mastodon.social). It's easy for me to follow accounts and boost posts between servers.
+
+### Onboarding
 
 ![](https://github.com/Fleker/blog-posts/blob/db1a98bb82d02c3417666e671634fa7589721d4d/2022/mastodon/Screen%20Shot%202022-11-04%20at%2012.29.17%20PM.png)
 
@@ -40,7 +42,7 @@ Picking just one server might present an existential question to some, since peo
 
 There are some cool communities [like one for science academics](https://fediscience.org/about) that I'm not able to join. Each server admin can make it public to join or require manual review of each application. This means that something like `fleker@fediscience.org` does wind up becoming impossible since I'm not in that community. Yet, as part of the Fediverse, I can still follow those public accounts.
 
-This leads to a sort of status symbol not unlike Twitter's verified symbol, which has rightly been criticized for [being applied arbitrarily](https://www.theverge.com/2021/8/13/22623714/twitter-verification-program-pause-fake-accounts-review). Musk's effort to make the verified symbol available to more people is good in theory, though in practice it hasn't been thought through.
+This leads to a sort of status symbol not unlike Twitter's verified symbol, which has rightly been criticized for [being applied arbitrarily and infrequently](https://www.theverge.com/2021/8/13/22623714/twitter-verification-program-pause-fake-accounts-review). Musk's effort to make the verified symbol available to more people is good in theory, though in practice it hasn't been thought through.
 
 ### Can't scale servers
 
@@ -50,7 +52,7 @@ Even on small instances I've experienced a lot of server lag. Trying to do simpl
 
 https://twitter.com/JoeMerrick/status/1589986161870921729
 
-This is a problem every web service faces as it scales. Twitter famously had the [fail whale](https://business.time.com/2013/11/06/how-twitter-slayed-the-fail-whale/) for years until their hired enough engineers to develop a reliable and sustainable service. Now that [Twitter engineering may be understaffed](https://www.technologyreview.com/2022/11/08/1062886/heres-how-a-twitter-engineer-says-it-will-break-in-the-coming-weeks/), it's interesting to compare this to Mastodon.
+This is a problem every web service faces as it scales. Twitter famously had the [fail whale](https://business.time.com/2013/11/06/how-twitter-slayed-the-fail-whale/) for years until their hired enough engineers to develop a reliable and sustainable service. Now that [Twitter engineering may be understaffed](https://www.technologyreview.com/2022/11/08/1062886/heres-how-a-twitter-engineer-says-it-will-break-in-the-coming-weeks/), its reliability seems likely to unravel. Can Mastodon do better?
 
 Unfortunately, Mastodon cannot scale to millions of users while being as reliable as Twitter. Being decentralized, every server is dependent on themselves to continue running reliably. Server costs can get massive. Twitter recently reported about [$1.7 billion](https://s22.q4cdn.com/826641620/files/doc_financials/2021/ar/FiscalYR2021_Twitter_Annual_-Report.pdf#page=50&zoom=auto,-158,734) in annual infrastructure costs. mastodon.world gets funding from [a Patreon page](https://www.patreon.com/mastodonworld) where it raises $262 per month.
 
@@ -110,7 +112,7 @@ It's true that the admins of mastodon.world [can read my DMs](https://github.com
 
 Twitter's access control was too broad, but it doesn't seem like Mastodon does this any better. A similar spear phishing attack would only affect users of a single server, but would still have a big impact. If dissidents were using a Mastodon instance, what's to prevent the admin becoming [a spy](https://www.theguardian.com/us-news/2022/aug/09/twitter-saudi-arabia-dissident-spying)? Saudi Arabia paid one Twitter employee $300K to identify dissident Twitter accounts.
 
-Do I really trust a voluntary admin with something too sensitive? Are they less willing to take a bribe? I don't know. Given the decentralized nature, it would be much harder for them to get caught. Central leadership has a number of problems too, but can be more accountable.
+Do I really trust a voluntary admin with something too sensitive? Are they less willing to take a bribe? I don't know. Given the decentralized nature, it would be much harder for them to get caught. Central leadership has a number of problems too, but can be more accountable. As a public company, Twitter would see an immediate effect during scandals and could be steered toward something that kept people using it.
 
 https://twitter.com/elonmusk/status/1590755506112823296
 
@@ -122,7 +124,7 @@ If Mastodon is broken apart into small, niche servers where I can't grow an audi
 
 ## Conclusion
 
-Mastodon and the underlying [ActivityPub spec](https://www.w3.org/TR/activitypub/) are actually neat technology, and I will continue to keep a tab open to Mastodon. Even better, it's a PWA so I can keep it open in a separate window.
+Mastodon and the underlying [ActivityPub spec](https://www.w3.org/TR/activitypub/) are actually neat technology, and I will continue to keep a tab open to Mastodon. Even better, it's [a PWA](https://web.dev/progressive-web-apps/) so I can keep it open in a separate window.
 
 Having a number of dedicated servers for journalists and art can allow you to join and talk with niche communities, and that's a good way to make meaningful connections.
 
