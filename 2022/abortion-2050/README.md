@@ -1,0 +1,31 @@
+<!-- -->
+# Is it okay to force women to give birth?
+- That's the wrong question. We're missing the bigger picture.
+- Abortion activists and others are looking backwards
+- When does life begin?
+- Radiolab's 23 weeks 6 days episode: https://radiolab.org/episodes/288733-23-weeks-6-days
+- Almost half the term is spent not in the mother
+- New research in Cell this year: https://www.cell.com/cell/fulltext/S0092-8674(22)00981-3
+    - IN the Atlantic: https://www.theatlantic.com/newsletters/archive/2022/12/technology-medicine-law-ai-10-breakthroughs-2022/672390/
+    - Brought a mouse embryo to life using only stem cells. No sperm. No egg. No womb.
+- Israel researchers have created artificial wombs for mice: https://www.timesofisrael.com/in-major-breakthrough-artificial-israeli-womb-turns-250-cells-into-mouse-fetus/
+- Sperm counts are dropping, and it's unclear why: https://www.timesofisrael.com/in-major-breakthrough-artificial-israeli-womb-turns-250-cells-into-mouse-fetus/
+    - Is 40m the minimum? Probably not. Our ability to improve fertility is astonishing: https://www.nytimes.com/2020/04/19/parenting/fertility/fertility-advances.html
+    - Micro-TESE: https://ivf.org/treatments-and-services/advanced-ivf-techniques/tese
+    - It only takes one to win.
+    - But does this matter?
+- Our view of abortion is antiquated. There's all these posts about coat hangars and late-nite clinics, but that's not the norm.
+    - These days you can just get a pill in the mail: https://radiolab.org/episodes/no-touch-abortion
+    - The evolution of this pill is interesting. They just keep poking at the fabric of scientific consensus and nothng bad happens.
+- This is all about fighting the last battles, but the future of abortion and healthcare? We're not going backwards. There isn't some Handmaid's Tale reversion.
+- 2050:
+  - Man and woman. Two women. Two men. [Three parents](https://www.npr.org/sections/health-shots/2017/04/08/523020895/a-baby-with-3-genetic-parents-seems-healthy-but-questions-remain).
+  - Contribute biological material
+  - Child is incubated. Perhaps multiple fetuses are monitored with [genetic testing](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) for potential defects
+  - [CRISPR corrections](https://www.npr.org/sections/health-shots/2021/12/31/1067400512/first-sickle-cell-patient-treated-with-crispr-gene-editing-still-thriving)
+  - Pick child up at hospital. Almost literally the stork.
+  - Natural child conception will be seen as old-fashioned and potentially dangerous.
+    - After all, miscarriages are real and women can die in childbirth.
+- [Population stagnation](https://www.un.org/development/desa/pd/sites/www.un.org.development.desa.pd/files/wpp2022_summary_of_results.pdf)
+- My grandmother died. Death is scary.
+- We don't really know what life is. That's scary too.
