@@ -35,7 +35,7 @@ Is it a perfect outcome? No. But if the total amount of global emissions decreas
 
 Nuclear energy is in the same position. The industry has not grown in the US [since the 1970](https://www.discoursemagazine.com/ideas/2022/12/07/we-need-an-abundance-agenda/) until [just earlier this year](https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/).
 
-![](nuclear.png)
+![Nuclear power deaths](https://github.com/Fleker/blog-posts/blob/ba3c407af1ea7d3b03cc598ca6b68caf8283a90d/2022/systemic-environmentalism/Screenshot%202022-12-11%206.21.57%20PM.png)
 
 Nuclear energy is objectively safe. Even the [Three-Mile Island incident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident), now fifty years ago in terms of safety standards, did not lead to any deaths or a provable rise in cancer rates.
 
