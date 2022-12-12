@@ -37,9 +37,9 @@ Nuclear energy is in the same position. The industry has not grown in the US [si
 
 ![Nuclear power deaths](https://github.com/Fleker/blog-posts/blob/ba3c407af1ea7d3b03cc598ca6b68caf8283a90d/2022/systemic-environmentalism/Screenshot%202022-12-11%206.21.57%20PM.png)
 
-Nuclear energy is objectively safe. Even the [Three-Mile Island incident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident), now fifty years ago in terms of safety standards, did not lead to any deaths or a provable rise in cancer rates.
+Nuclear energy is objectively safe. Even the [Three-Mile Island incident](https://en.wikipedia.org/wiki/Three_Mile_Island_accident), now fifty years ago in terms of safety standards, did not lead to any deaths or a provable rise in cancer rates. And if it replaces coal, which is demonstrably more harmful, you save lives.
 
-Look at nuclear from a systems point-of-view. People need energy, and it needs to be affordable. There are a variety of options with a variety of costs. If coal is used in place of nuclear, you cannot say that's better. If the energy supply shrinks and prices rise, people will use less energy. After the Fukushima nuclear plant meltdown, higher prices that winter [led to about 1300 deaths](https://www.nber.org/system/files/working_papers/w26395/w26395.pdf) from the cold. On the other side, the meltdown itself led to about 130 deaths from nuclear exposure.
+Look at nuclear from a systems point-of-view. People need energy, and it needs to be affordable. There are a variety of options with a variety of costs. If the energy supply shrinks and prices rise, people will use less energy. After the Fukushima nuclear plant meltdown, higher prices that winter [led to about 1300 deaths](https://www.nber.org/system/files/working_papers/w26395/w26395.pdf) from the cold. On the other side, the meltdown itself led to about 130 deaths from nuclear exposure.
 
 Ideally nobody dies. However, you cannot control a system entirely. You can only place pieces in the best places to succeed. Climate change is real and will lead to deaths. We need to take policies that lead to the fewest possible deaths, and continue to shrink that number.
 
