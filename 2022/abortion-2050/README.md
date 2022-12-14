@@ -21,6 +21,7 @@
 - 2050:
   - Man and woman. Two women. Two men. [Three parents](https://www.npr.org/sections/health-shots/2017/04/08/523020895/a-baby-with-3-genetic-parents-seems-healthy-but-questions-remain).
   - Contribute biological material
+  - https://twitter.com/BowTiedRanger/status/1601687546316328960?s=20&t=R4n8f954TCOoSle4B8Y-6A
   - Child is incubated. Perhaps multiple fetuses are monitored with [genetic testing](https://www.acog.org/womens-health/faqs/prenatal-genetic-screening-tests) for potential defects
   - [CRISPR corrections](https://www.npr.org/sections/health-shots/2021/12/31/1067400512/first-sickle-cell-patient-treated-with-crispr-gene-editing-still-thriving)
   - Pick child up at hospital. Almost literally the stork.
