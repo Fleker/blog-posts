@@ -89,7 +89,13 @@ Or else what? Look at the system implications. He has to live somewhere. He turn
 
 This has climate implications. When cities fail to meet the housing needs, potential residents need to live somewhere. When they can't live in a dense transit-friendly neighborhood, they move to low density suburbs driven by sprawl. To get around they need to drive a car. This then leads to more air pollution in an area that was just a forest.
 
-Cities are able to absorb more residents and cut down their carbon emissions. You need to conisder the systemic implications, because if a resident is priced out of a city they don't disappear. Their habits change, often for the worse.
+https://twitter.com/markmobility/status/1602681024831524865
+
+Cities are able to absorb more residents and cut down their carbon emissions. Shared public resources reduces the household cost of carbon emissions, and this is true across every city.
+
+https://twitter.com/philritz1/status/1602530082853109760?s=20&t=R4n8f954TCOoSle4B8Y-6A
+
+You need to conisder the systemic implications, because if a resident is priced out of a city they don't disappear. Their habits change, often for the worse.
 
 Beyond housing, NIMBYs have a habit of blocking renewable energy projects. It's deeply frustrating for them to feign support with words but throw up lawsuits when they are asked to be part of the solution.
 
