@@ -87,7 +87,7 @@ PBS New Hour just did a story on NIMBYs on Long Island. A project to build a hou
 
 Or else what? Look at the system implications. He has to live somewhere. He turns outward for a neighborhood that's affordable. This inevitably is a poorer neighborhood. As more young professionals move in, pricing out long residents, stores begin to cater to the new community members. Gentrification becomes a system failure of a lack of affordable housing options in many places.
 
-This has climate implications. When cities fail to meet the housing needs, potential residents need to live somewhere. When they can't live in a dense transit-friendly neighborhood, they move to low density suburbs driven by sprawl. To get around they need to drive a car. This then leads to more air pollution in an area that was just a forest.
+This has climate implications. When cities fail to meet the housing needs, potential residents need to live somewhere. When they can't live in a dense transit-friendly neighborhood, they move to low density suburbs driven by sprawl. To get around they need to drive a car. This then leads to more air pollution in an area that was recently a forest. A system [that accomodates young professionals](https://noahpinion.substack.com/p/yuppie-fishtanks-yimbyism-explained) rather than acting hostile to them is important for everyone to thrive.
 
 https://twitter.com/markmobility/status/1602681024831524865
 
